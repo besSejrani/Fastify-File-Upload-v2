@@ -7,7 +7,8 @@
     "test": "tap test/*.test.js"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/besSejrani/Fastify-File-Upload-v2"
   },
   "keywords": [
     "fastify",
